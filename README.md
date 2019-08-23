@@ -7,5 +7,5 @@ A good way to solve this problem is by using the Linear Regression algorithm
 
 
 ### Instructions to Download and Run the Project:
-- The project folder has two files: The data file named USA_Housing.csv and the Jupyter notebook named 
+- The project folder has two files: The data file named "USA_Housing.csv" and the Jupyter notebook named "Predicting House Prices Using Linear Regression.ipynb"
 - Download the Project folder and run the .ipynb file using Jupyter Notebook
